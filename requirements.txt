@@ -1,0 +1,10 @@
+pandas
+openai
+langchain
+scikit-learn
+pandas-datareader
+plotly
+langchain 
+langchain-experimental
+tiktoken
+faiss-cpu
